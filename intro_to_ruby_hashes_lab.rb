@@ -1,5 +1,10 @@
 def new_hash
-
+  fruits = {
+    :orange => "citrus",
+    :apple => "not my favorite",
+    :berries => "my favorite"
+  }
+  new_hash
 end
 
 def actor
