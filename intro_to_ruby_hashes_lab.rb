@@ -4,7 +4,7 @@ def new_hash
     :apple => "not my favorite",
     :berries => "my favorite"
   }
-  new_hash
+  fruits 
 end
 
 def actor
