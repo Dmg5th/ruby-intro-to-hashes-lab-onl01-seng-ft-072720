@@ -1,9 +1,5 @@
 def new_hash
-  fruits = {
-    :orange => "citrus",
-    :apple => "not my favorite",
-    :berries => "my favorite"
-  }
+  fruits = {}
   fruits 
 end
 
